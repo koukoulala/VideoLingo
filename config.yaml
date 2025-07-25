@@ -33,7 +33,7 @@ whisper:
   # Whisper running mode ["local", "cloud", "elevenlabs"]. Specifies where to run, cloud uses 302.ai API
   runtime: 'cloud'
   # 302.ai API key
-  whisperX_302_api_key: 'sk-S7PYsuAwH5wzw0NfAdES5eLIxKPQKof7eLZ2dZ4DviILJFaG'
+  whisperX_302_api_key: ''
   # ElevenLabs API key (experimental)
   elevenlabs_api_key: 'your_elevenlabs_api_key'
 
